@@ -1,0 +1,3 @@
+# subject trigger named t1
+t1 SUBJECT world
+t2 TITLE cameron
