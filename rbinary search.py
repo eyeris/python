@@ -1,4 +1,6 @@
 def rBinarySearch(list,element):
+"""Recursive Binary Search Algorithm Implemented using Python 
+"""
     if len(list) == 1:
         return element == list[0]
     mid = len(list)/2
